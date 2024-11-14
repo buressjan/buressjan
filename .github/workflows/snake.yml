@@ -19,9 +19,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       # Step 2: Generate the snake animations
-      - name:
-          Generate GitHub Contributions Snake
-          Animations
+      - name: Generate GitHub Snake Animation
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for

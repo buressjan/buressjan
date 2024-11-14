@@ -21,6 +21,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
+# Companies I Am Part Of
+
+## [EIG](https://www.eig.ag/)
+
+GAMING & AI projects
+
+## [Heliotics](https://www.heliotics.com/)
+
+Software solutions for Smart Industry Monitoring
+
+## [Bloxauce](https://bloxauce.com/)
+
+(Not only) blockchain solutions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buressjan/buressjan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buressjan/buressjan/output/github-snake.svg" />

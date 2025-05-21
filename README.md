@@ -23,9 +23,9 @@
 
 # Companies I Am Part Of
 
-## [EIG](https://www.eig.ag/)
+## [Metalend](https://metalend.tech/)
 
-GAMING & AI projects
+DeFi (Staking & Lending) protocol
 
 ## [Heliotics](https://www.heliotics.com/)
 

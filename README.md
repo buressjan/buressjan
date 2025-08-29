@@ -1,4 +1,4 @@
-## Hey buddy, I am Jan - dev from the Czech Republic
+## Hey buddy, I am Jan - fullstack dev with web3 experience from the Czech Republic
 
 # 💻 My Tech Stack:
 

@@ -1,4 +1,4 @@
-## Hey, I am Jan — fullstack dev with strong Web3 experience from the Czech Republic
+## Hey, I am Jan — fullstack dev with strong Web3 experience, based in the Czech Republic
 
 # 💻 My Tech Stack
 

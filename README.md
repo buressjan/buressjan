@@ -1,4 +1,4 @@
-## Hey, I am Jan — Senior Frontend Engineer with strong Web3 experience, based in the Czech Republic
+## Hey, I am Jan — Senior Frontend Engineer with strong Web3 integration experience, based in the Czech Republic
 
 Specializing in high-performance React applications — from Web3 DApps with complex on-chain/off-chain data flows to cross-platform IoT dashboards with real-time data visualization. Comfortable close to the backend — Kotlin APIs, monitoring and observability.
 
